@@ -1,0 +1,101 @@
+body {
+    background-color: #eee;
+}
+
+form .round-input {
+    border-radius: 30px;
+}
+
+.form-inline .btn-outline-success {
+    border-radius: 12px;
+    color: #fff;
+    background-color: #28a745;
+}
+
+.form-inline .btn-outline-success:hover {
+    border-radius: 12px;
+    color: #fff;
+    background-color: #24963F;
+}
+
+.nav-item .nav-link:hover {
+    background-color: #1492A5;
+    color: #fff !important;
+    border-radius: 12px;
+}
+
+.navbar-nav .active {
+    background-color: #1492A5;
+    color: #fff !important;
+    border-radius: 12px;
+}
+
+div .main {
+    background-color: #eee;
+}
+
+.main .card {
+    height: 760px;
+    border-radius: 20px;
+}
+
+.main .list {
+    height: auto !important;
+    border-radius: 20px;
+}
+
+
+.align-center {
+    text-align: center;
+    justify-content: center
+}
+
+.carousel-inner img {
+    height: 100%;
+}
+
+.card-block .post img {
+    width: 60px;
+    margin-top: 8px;
+}
+
+.card-block .post a {
+    display: inline-block;
+    font-size: 23px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #000;
+}
+
+.interact a {
+    width: 48%;
+    font-size: 20px;
+}
+
+
+.border-blue{
+    border-color: #1492A5 !important;
+    color: #1492A5;
+}
+
+.border-blue:hover{
+    color: #fff !important;
+    background: #1492A5;
+    text-decoration-line: none
+}
+
+.size-fix{
+    font-size: 20px;
+}
+
+.display-3{
+    font-size: 28px;
+    font-weight: 400;
+}
+
+
+
+
+
+
